@@ -33,5 +33,42 @@ body {
 /*FINE HEADER*/
 
 /*INIZIO MAIN*/
+.container__titolo {
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.paragrafo {
+  color: grey;
+}
+#uno {
+  color: rgb(39, 170, 214);
+}
 
+.immagini {
+  margin-top: 25px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+#descrizione-foto {
+  font-size: 12px;
+}
+
+.container__testo {
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+ul {
+  padding: 15px;
+}
+
+.container-tabella {
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.container-tabella__tab {
+  width: 100%;
+}
 /*FINE MAIN*/
