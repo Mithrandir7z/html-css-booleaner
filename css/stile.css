@@ -68,24 +68,36 @@ ul {
   margin-left: 250px;
   margin-right: 250px;
 }
-.container-tabella__tab {
-  width: 100%;
-  margin-bottom: 50px;
-}
 
-.blue {
-  background: rgb(14, 155, 155);
-}
-.cyan {
-  background: cyan;
-}
+/*inizio tabella*/
 
 .testo-fondo {
-  margin-top: 20px;
+  margin-top: 75px;
   margin-left: 250px;
   margin-right: 250px;
   margin-bottom: 50px;
 }
+
+table {
+  margin-top: 20px;
+  border-spacing: 0;
+}
+table thead {
+  background-color: blue;
+  color: white;
+}
+.text {
+  width: 50%;
+}
+
+.odd {
+  background: cyan;
+}
+
+th {
+  text-align: left;
+}
+/*fine tabella*/
 
 /*FINE MAIN*/
 
