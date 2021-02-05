@@ -71,4 +71,11 @@ ul {
 .container-tabella__tab {
   width: 100%;
 }
+
+.blue {
+  background: rgb(14, 155, 155);
+}
+.cyan {
+  background: cyan;
+}
 /*FINE MAIN*/
