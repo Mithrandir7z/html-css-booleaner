@@ -28,6 +28,7 @@ body {
 }
 
 .header__container__div__logo {
+  margin-top: 35px;
   width: 200px;
 }
 /*FINE HEADER*/
@@ -116,6 +117,8 @@ th {
   width: 250px;
   height: 200px;
   background-image: url("../img/monitor.jpg");
+  color: white;
+  font-size: 23px;
 }
 .quadro-due {
   margin-top: 10px;
@@ -124,4 +127,6 @@ th {
   width: 250px;
   height: 250px;
   background-image: url("../img/graph.jpg");
+  color: white;
+  font-size: 23px;
 }
