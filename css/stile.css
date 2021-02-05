@@ -2,3 +2,30 @@
 * {
   margin: 0;
 }
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: lightblue;
+}
+
+.header__container {
+  width: 100%;
+  height: 100px;
+  background-image: url("../img/pattern.png");
+  background-size: 20%;
+}
+
+.header__container__div {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.header__container__div__logo {
+  width: 200px;
+}
