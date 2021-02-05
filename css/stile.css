@@ -14,6 +14,7 @@ body {
   background-color: lightblue;
 }
 
+/*INIZIO HEADER*/
 .header__container {
   width: 100%;
   height: 100px;
@@ -22,10 +23,15 @@ body {
 }
 
 .header__container__div {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 
 .header__container__div__logo {
   width: 200px;
 }
+/*FINE HEADER*/
+
+/*INIZIO MAIN*/
+
+/*FINE MAIN*/
