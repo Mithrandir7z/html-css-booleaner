@@ -70,6 +70,7 @@ ul {
 }
 .container-tabella__tab {
   width: 100%;
+  margin-bottom: 50px;
 }
 
 .blue {
@@ -78,4 +79,37 @@ ul {
 .cyan {
   background: cyan;
 }
+
+.testo-fondo {
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 50px;
+}
+
 /*FINE MAIN*/
+
+#suggerimento {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+#color {
+  color: grey;
+}
+
+.quadro-uno {
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  width: 250px;
+  height: 200px;
+  background-image: url("../img/monitor.jpg");
+}
+.quadro-due {
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  width: 250px;
+  height: 250px;
+  background-image: url("../img/graph.jpg");
+}
